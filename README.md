@@ -1,0 +1,2 @@
+# Gosec
+GO type file
